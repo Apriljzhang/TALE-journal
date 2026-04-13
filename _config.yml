@@ -1,0 +1,17 @@
+title: TALE Journal
+description: Technology-enhanced Assessment & Learning Environments
+url: "https://tale-journal.org"
+baseurl: ""
+markdown: kramdown
+permalink: pretty
+timezone: UTC
+
+collections:
+  pages:
+    output: true
+
+defaults:
+  - scope:
+      path: ""
+    values:
+      layout: default
