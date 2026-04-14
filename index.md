@@ -6,6 +6,12 @@ title: Home
 
 <p class="lead">TALE is an international, peer-reviewed journal dedicated to advancing scholarship on how digital technologies transform assessment and learning environments.</p>
 
+<div class="hero-panel">
+  <p class="meta">International Journal</p>
+  <p>Advancing rigorous research at the intersection of pedagogy, assessment, and digitally mediated learning ecosystems.</p>
+  <a class="button-link" href="{{ '/submission/' | relative_url }}">View submission guidelines</a>
+</div>
+
 ## Mission
 
 TALE publishes rigorous, innovative, and critically reflective research at the intersection of pedagogy, assessment, learning sciences, and technology-enhanced environments.
